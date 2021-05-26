@@ -1,0 +1,3 @@
+Vaishnavi Rathod
+Prabhanjan Amare
+We are working with honey and homomorphic encryption algorithm. When user saving file on cloud it is not secured, on some applications system admin can view files, but our approach is to encrypt file on server with key it means whenever user will upload file on server he/she need to pass one key. This key may user can use as a unique key or same, after successfully uploaded file on server one email will shoot to user with file and its key for future ref and file will get envy and stored on server. If user want to retrieved file again then simply, he/she need to submit key before downloading if key matches then successfully download file else one email will shoot to user alert user. And some wrong file will get download
